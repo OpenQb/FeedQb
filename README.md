@@ -1,3 +1,3 @@
-# QbFeed
+# FeedQb
 
-QbFeed allows you to collect data using rss,atom or api.
+FeedQb will allow you to collect data using rss,atom or api.
