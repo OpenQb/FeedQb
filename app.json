@@ -1,0 +1,20 @@
+{
+    "name"			: "FeedQb",
+	"version"		: "1.0.0",
+	"build"         : 1,
+    "namespace"		: "com.github.openqb.FeedQb",
+	
+	"supportedOs"   : ["android","ios","osx","windows","linux"],
+
+	"category"      : "Application",
+	"subCategory"   : "Productivity",
+	"genre"   		: "Productivity",
+	
+    "runtimeMode"   : "ZPACK",
+    "minQbVersion"  : "1",
+
+    "description"   : "FeedQb will allow you to collect data using rss,atom or api.",
+
+    "author"		: [{"name":"KAWSER","link":"https://github.com/mkawserm"}],
+    "projectLink"	: [{"name":"GitHub","link":"https://github.com/OpenQb/FeedQb"}]
+}
